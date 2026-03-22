@@ -1,23 +1,25 @@
-# Automation Exercise Testing Project
+# Automation Exercise Testing Project (A+)
 
-## Overview
-This project covers complete software testing lifecycle on https://automationexercise.com
+## Project Overview
+This project demonstrates end-to-end software testing on a real-world web application: https://automationexercise.com
 
-## Tasks Covered
-1. Manual Functional Testing
-2. UI & Usability Testing
-3. Regression Testing
-4. Bug Tracking & Reporting
-5. Selenium Automation
-6. API Testing (Postman)
-7. Performance Testing
-8. CI/CD Integration
+## Tasks Included
+* Manual Testing
+* UI & Usability Testing
+* Regression Testing
+* Bug Reporting
+* API Testing
+
+## Key Highlights
+* Industry-level documentation
+* Real-world test scenarios
+* API validation using Postman
+* Structured QA approach
 
 ## Tools Used
-- Selenium
-- Postman
-- JMeter
-- GitHub Actions
+* Postman
+* Excel
+* GitHub
 
-## Website Tested
-https://automationexercise.com
+## Author
+Ayushman Mishra
